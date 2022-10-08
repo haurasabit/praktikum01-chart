@@ -1,0 +1,15 @@
+.our {
+display: block;
+width: 350px;
+height: 350px;
+background-color: #bcbcbc;
+position: relative;
+top: -10cm;
+right: -25cm;
+}
+
+.follow {
+position: relative;
+right: -35cm;
+top: -100;
+}
